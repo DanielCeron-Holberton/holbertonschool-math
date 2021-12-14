@@ -1,1 +1,1 @@
-# holbertonschool-math
+# holbertonschool-math project
